@@ -62,7 +62,7 @@
             "serverFarmId": "[parameters('hostingPlanName')]",
             "siteConfig": {
               "appSettings": []
-            },
+            }
         },
         "resources": [{
             "apiVersion": "2015-08-01",
