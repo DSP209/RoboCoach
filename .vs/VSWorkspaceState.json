@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DjangoApp",
+    "\\static\\app",
+    "\\static\\app\\content",
+    "\\static\\app\\fonts",
+    "\\static\\app\\scripts"
+  ],
+  "SelectedNode": "\\DjangoApp\\settings.py",
+  "PreviewInSolutionExplorer": false
+}
